@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Generative AI and Payment App](https://github.com/yagniksram007/Payment_App)
 
-- 🌱 Learning **Software Testing, Gen AI**
+- 🌱 Learning **Gen AI, Software Testing**
 
 - 👨‍💻 All of my Certifications are available at [https://drive.google.com/drive/folders/1njP_zYbR_zE0L2M7H8V-uXZHcNGbXk3m?usp=sharing](https://drive.google.com/drive/folders/1njP_zYbR_zE0L2M7H8V-uXZHcNGbXk3m?usp=sharing)
 
